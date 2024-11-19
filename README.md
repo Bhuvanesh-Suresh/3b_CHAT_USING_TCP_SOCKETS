@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+### Name: Bhuvanesh S R
+### Reg No: 212223240017
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
